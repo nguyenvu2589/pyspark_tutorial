@@ -53,4 +53,35 @@ df.describe()
 
 # COMMAND ----------
 
+df.select("age").show()
+
+# COMMAND ----------
+
+# select column
+df.select(["age", "total_purchase"]).show()
+
+# COMMAND ----------
+
+# add new column
+df.withColumn("new_age", df["age"]).show()
+
+# COMMAND ----------
+
+# column rename
+df.withColumnRenamed("age", "new_age").show()
+
+# COMMAND ----------
+
+df.createOrReplaceTempView("Basic")
+
+# COMMAND ----------
+
+result = spark.sql("select * from Basic")
+
+# COMMAND ----------
+
+result.show()
+
+# COMMAND ----------
+
 
