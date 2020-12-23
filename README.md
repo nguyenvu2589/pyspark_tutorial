@@ -39,4 +39,13 @@ Someone who is very familiar with another programming language and needs to lear
 
 https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark
 
+# WHY? 
+I want to get spark certification 3.0 from databrick 
+https://academy.databricks.com/exam/databricks-certified-associate-developer
 
+# How ? 
+- Go thru a few tuturials from this course. 
+- Read Spark Definitive Guide: https://www.amazon.com/Spark-Definitive-Guide-Processing-Simple/dp/1491912219
+- Take sample practice course: https://www.udemy.com/course/databricks-apache-spark-3x-python-certification-practice/learn/quiz/4955232#overview
+
+# Certificate
