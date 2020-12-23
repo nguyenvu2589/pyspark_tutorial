@@ -49,3 +49,4 @@ https://academy.databricks.com/exam/databricks-certified-associate-developer
 - Take sample practice course: https://www.udemy.com/course/databricks-apache-spark-3x-python-certification-practice/learn/quiz/4955232#overview
 
 # Certificate
+![spark_certificate](spark_certificated.png)
